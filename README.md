@@ -1,4 +1,12 @@
-# This is Bartender, beta.
+# Bartender has moved
+
+This repo is only here for compatibility reasons.
+It is not up to date.
+
+Check out [the new repo](https://github.com/Martini-Force-Field-Initiative/Bartender)!
+
+
+## This is Bartender, beta.
 
 
 ## Install 
